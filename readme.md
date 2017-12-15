@@ -6,6 +6,7 @@ This theme was built off of Blank Theme Reloaded (aka Blank Theme Reloaded 2: El
 
 Feel free to utilize my template for your own Wordpress Development sites both private or commercial. Just as I did with the Blank Theme Reloaded 2. As stated in Blank Theme Reloaded 2, "For a formal license statement, use the unlicense (http://unlicense.org/) in the file UNLICENSE."
 
-Resources:
+###Resources:
+
 ~~Blank Theme Reloaded (abandoned)~~ 
 [Blank Theme Reloaded 2 Repo] (https://github.com/lewiscollard/blank-theme-reloaded)
