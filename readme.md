@@ -16,5 +16,5 @@ Feel free to utilize my template for your own Wordpress Development sites both p
 
 * Jquery-3.2.1.min.js
 
-⋅⋅- theme hosted file, updated as needed
+⋅⋅* theme hosted file, updated as needed
 
