@@ -12,4 +12,4 @@ get_template_part( 'partials/content', 'page' );
 
 Note: the file we are calling here lives at partials/content-page.php
 
-More WordPress documentation on how to use partials here: [get_template_part(string $slug, string $name = null)] (https://developer.wordpress.org/reference/functions/get_template_part/) 
+More WordPress documentation on how to use partials here: [Get Template Part] (https://developer.wordpress.org/reference/functions/get_template_part/) 
