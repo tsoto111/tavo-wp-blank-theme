@@ -6,4 +6,4 @@ My method for adding custom content types to WP
 
 2. Open `functions.php`
 
-3. Add new file to functions.php with `include 'custom-post-types/newfile.php'`
+3. Add new file to functions.php with ``include 'custom-post-types/newfile.php'``
