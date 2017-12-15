@@ -1,7 +1,7 @@
 (function($) {
 	
 	/* Get HTML5 tags working in IE 8. */
-	document.createElement('header');
+	document.createElement('headder');
 	document.createElement('nav');
 	document.createElement('article');
 	document.createElement('aside');
@@ -19,7 +19,9 @@
 		console.log('On Window Load!');
 	});
 	
-	
+	/*====================================================
+		Funks
+	====================================================*/
 	function externalLinks() {
 		// Open external links in new window. Some people hate it (I do), but
 		// this ends up being in all of our themes. -- LC
