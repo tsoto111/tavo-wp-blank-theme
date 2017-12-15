@@ -8,6 +8,6 @@ My method for adding custom content types to WP
 
 3. Add new file to functions.php with 
 
-```
+``` PHP
 include 'custom-post-types/newfile.php'
 ```
