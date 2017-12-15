@@ -11,6 +11,11 @@ function blank_enqueue_scripts() {
 	wp_register_script('scripts', (get_template_directory_uri().'/assets/js/scripts.js'),false);
 	wp_enqueue_script('scripts');
 	
+	// Mobile Scripts
+	wp_deregister_script('mobile');
+	wp_register_script('mobile', (get_template_directory_uri().'/assets/js/scripts.js'),false);
+	wp_enqueue_script('mobile');
+	
 }
 add_action('wp_enqueue_scripts', 'blank_enqueue_scripts');
 
