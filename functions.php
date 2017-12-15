@@ -3,8 +3,14 @@
 function blank_enqueue_scripts() {
     // Load jQuery
     wp_deregister_script('jquery');
-    wp_register_script('jquery', ('http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'), false);
+    wp_register_script('jquery', (get_template_directory_uri().'/assets/js/jquery-3.2.1.min.js'), false);
     wp_enqueue_script('jquery');
+	
+	// Load Scripts
+	wp_deregister_script('scripts');
+	wp_register_script('scripts', (get_template_directory_uri().'/assets/js/scripts.js'),false);
+	wp_enqueue_script('scripts');
+	
 }
 add_action('wp_enqueue_scripts', 'blank_enqueue_scripts');
 

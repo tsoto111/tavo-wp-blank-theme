@@ -11,3 +11,10 @@ Feel free to utilize my template for your own Wordpress Development sites both p
 * ~~Blank Theme Reloaded (abandoned)~~ 
 
 * [Blank Theme Reloaded 2 Repo] (https://github.com/lewiscollard/blank-theme-reloaded)
+
+### Notes:
+
+* Jquery-3.2.1.min.js
+
+⋅⋅- theme hosted file, updated as needed
+
