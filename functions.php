@@ -13,7 +13,7 @@ function blank_enqueue_scripts() {
 	
 	// Mobile Scripts
 	wp_deregister_script('mobile');
-	wp_register_script('mobile', (get_template_directory_uri().'/assets/js/scripts.js'),false);
+	wp_register_script('mobile', (get_template_directory_uri().'/assets/js/mobile.js'),false);
 	wp_enqueue_script('mobile');
 	
 }
