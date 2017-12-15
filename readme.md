@@ -14,7 +14,15 @@ Feel free to utilize my template for your own Wordpress Development sites both p
 
 ### Notes:
 
-* Jquery-3.2.1.min.js
+* Jquery-3.2.1.min.js hosted in theme for speed.
 
-⋅⋅* theme hosted file, updated as needed
+* Eric Meyer CSS Reset
+
+* Responsive Scripts handled with mobile.css, tablet.css, and mobile.js
+
+* HTML5 Tags where needed
+
+* Emoji scripts removed via functions.php (Thanks to Christine Cooper).
+
+
 
