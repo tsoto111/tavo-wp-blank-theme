@@ -14,4 +14,4 @@ Note: the file we are calling here lives at partials/content-page.php
 
 More WordPress documentation on how to use partials here: 
 
-[Get Template Part] (https://developer.wordpress.org/reference/functions/get_template_part/) 
+[Get Template Part](https://developer.wordpress.org/reference/functions/get_template_part/) 
